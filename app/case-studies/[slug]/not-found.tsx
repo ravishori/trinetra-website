@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { Container } from '@/components/layout/Container';
 import { Button } from '@/components/ui/button';
 
-export default function CaseStudiesNotFound() {
+export default function CaseStudyNotFound() {
   return (
     <Container className="py-16">
       <h1 className="text-2xl font-semibold tracking-tight">Case study not found</h1>
